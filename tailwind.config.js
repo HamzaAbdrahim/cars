@@ -15,7 +15,8 @@ export default {
         'accent-color-2': '#f86761',
         'accent-color-3': '#8c68c8',
         'accent-color-4': '#4b66ba',
-        "Gray-800":"#D9D9D9"
+        "Gray-800":"#D9D9D9",
+        "gray-light":"#999999"
       },
       gradients: {
         'cta': 'linear-gradient(0deg, #f86761 0%, #fea07d 100%)',

@@ -7,7 +7,9 @@ export const styles = {
 
     flexCenter: "flex justify-center items-center",
     flexBetween:"flex justify-between items-center",
-    flexitems:"flex items-center"
+    flexitems:"flex items-center",
+
+    threeCoslGrid:'justify-center grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2'
 
 }
 
